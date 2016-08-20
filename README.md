@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EbiMayo
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ebi_mayo`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -34,3 +35,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ebi_mayo.
 
+=======
+# ebi_mayo
+hotel modelling project
+>>>>>>> efc9e7f4a3be07ffdd118f4f381d2f706324078f

@@ -8,7 +8,9 @@ module EbiMayo
     end
 
     def next
-      Date.jd(@start_date.jd + 1)
+      if @current_date < @end_date
+        Date.jd(@start_date.jd + 1)
+      end
     end
 
     def days
